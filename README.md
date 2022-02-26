@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [https://www.josephmindo.engineer/](https://www.josephmindo.engineer/)
+- 👨‍💻 All of my projects are available at [https://www.josephmindo.engineer/](https://www.josephmindo.me/)
 
 - 📝 I regularly write articles on [https://mindo.hashnode.dev/](https://mindo.hashnode.dev/)
 
